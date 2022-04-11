@@ -70,3 +70,13 @@ Grimoire is a coremod that allows you to add so-called "mixins" (based on [Spong
 **It is highly recommended to at least use the NEI mixin, which fixes an exploit were players could force themselves to become a server operator.**
 
 All mixins can be found [here](https://github.com/CrucibleMC/Grimoire-Mixins-1.7.10).
+
+# Useful links
+
+* **Interested in using mods or creating modpacks?** Check out [**my tips and resources on 1.7.10 modding in 2022**](https://github.com/Doenerstyle/1.7.10-mods-in-2022).
+
+* [**kennytv's "The List Of Shame"**](https://github.com/kennytv/list-of-shame) - A collection of Minecraft-related things to stay away from (although I personally do not agree to *all* of them, it does make fair points)
+* [**Incendo's "Awesome Minecraft"**](https://github.com/Incendo/awesome-minecraft) - "A curated list of awesome (free) open-source frameworks, libraries and software for Minecraft." (linked on The List Of Shame)
+
+##
+Long live Minecraft 1.7.10.
